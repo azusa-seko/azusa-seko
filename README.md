@@ -39,7 +39,7 @@ COACHTECH 教材のハンズオンで作成したリポジトリです。
 - [auth-app-practice](https://github.com/azusa-seko/auth-app-practice) — 認証機能の実装（Laravel Fortify）
 - [self-introduction-practice](https://github.com/azusa-seko/self-introduction-practice) — 自己紹介ページ（HTML5）
 - [github-collab-practice](https://github.com/azusa-seko/github-collab-practice)-
-- [php-basics-practice](https://github.com/azusa-seko/php-basics-practice)-
+- [php-basics-practice](https://github.com/azusa-seko/php-basics-practice)- 商品価格計算プログラムの作成　(PHP)
 - [database-app-practice](https://github.com/azusa-seko/database-app-practice)-
 - [security-app-practice](https://github.com/azusa-seko/security-app-practice)-
 - [testing-app-practice](https://github.com/azusa-seko/testing-app-practice)-
@@ -52,10 +52,9 @@ COACHTECH 教材のハンズオンで作成したリポジトリです。
 - [profile-app-practice](https://github.com/azusa-seko/profile-app-practice)-
 - [my-first-git](https://github.com/azusa-seko/my-first-git)-
 - [setup-app-practice](https://github.com/azusa-seko/setup-app-practice)-
-- [php-form-practice](https://github.com/azusa-seko/php-form-practice)-
-- [php-oop-practice](https://github.com/azusa-seko/php-oop-practice)-
-- [php-control-practice](https://github.com/azusa-seko/php-control-practice)-
-- [self-introduction-practice](https://github.com/azusa-seko/self-introduction-practice)-
+- [php-form-practice](https://github.com/azusa-seko/php-form-practice)- ユーザー登録フォームを作成 (PHP)
+- [php-oop-practice](https://github.com/azusa-seko/php-oop-practice)- ユーザー管理プログラムを作成 (PHP)
+- [php-control-practice](https://github.com/azusa-seko/php-control-practice)- 成績判定プログラムの作成 (PHP)
 - [discount_calculator.php](https://github.com/azusa-seko/discount_calculator.php)-
 - 
 
