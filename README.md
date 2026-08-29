@@ -34,13 +34,36 @@ AIからの評価は
 
 COACHTECH 教材のハンズオンで作成したリポジトリです。
 
-<!-- ↓ Tutorial 5〜11 で push した自分のリポジトリへのリンクを並べる。
-     並べ方は自由（後述の TIP 参照）。「特に頑張ったもの」を上に持ってくるのもあり。 -->
 
-- [task-api-practice](https://github.com/<あなた>/task-api-practice) — タスク管理APIのCRUD実装（Laravel + REST API）
-- [auth-app-practice](https://github.com/<あなた>/auth-app-practice) — 認証機能の実装（Laravel Fortify）
-- [self-introduction-practice](https://github.com/<あなた>/self-introduction-practice) — 自己紹介ページ（HTML5）
-- ...（他のリポジトリも同じ要領で並べる）
+- [task-api-practice](https://github.com/azusa-seko/task-api-practice) — タスク管理APIのCRUD実装（Laravel + REST API）
+- [auth-app-practice](https://github.com/azusa-seko/auth-app-practice) — 認証機能の実装（Laravel Fortify）
+- [self-introduction-practice](https://github.com/azusa-seko/self-introduction-practice) — 自己紹介ページ（HTML5）
+- [github-collab-practice](https://github.com/azusa-seko/github-collab-practice)-
+- [php-basics-practice](https://github.com/azusa-seko/php-basics-practice)-
+- [database-app-practice](https://github.com/azusa-seko/database-app-practice)-
+- [security-app-practice](https://github.com/azusa-seko/security-app-practice)-
+- [testing-app-practice](https://github.com/azusa-seko/testing-app-practice)-
+- [debugging-app-practice](https://github.com/azusa-seko/debugging-app-practice)-
+- [authorization-app-practice](https://github.com/azusa-seko/authorization-app-practice)-
+- [middleware-app-practice](https://github.com/azusa-seko/middleware-app-practice)-
+- [auth-app-practice](https://github.com/azusa-seko/auth-app-practice)-
+- [api-setup-practice](https://github.com/azusa-seko/api-setup-practice)-
+- [blade-app-practice](https://github.com/azusa-seko/blade-app-practice)-
+- [profile-app-practice](https://github.com/azusa-seko/profile-app-practice)-
+- [my-first-git](https://github.com/azusa-seko/my-first-git)-
+- [setup-app-practice](https://github.com/azusa-seko/setup-app-practice)-
+- [php-form-practice](https://github.com/azusa-seko/php-form-practice)-
+- [php-oop-practice](https://github.com/azusa-seko/php-oop-practice)-
+- [php-control-practice](https://github.com/azusa-seko/php-control-practice)-
+- [self-introduction-practice](https://github.com/azusa-seko/self-introduction-practice)-
+- [discount_calculator.php](https://github.com/azusa-seko/discount_calculator.php)-
+- 
+
+
+
+
+
+
 
 ## 🌱 これから挑戦したいこと
 
