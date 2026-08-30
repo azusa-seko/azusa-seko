@@ -1,18 +1,19 @@
 # こんにちは、セコ　アズサです 👋
 
 COACHTECH でフルスタックWeb開発を学習中のエンジニア志望です。
-COACHTECH にて学習終了後、Swiftを学習する予定です。またLinuCレベル１受験予定。
+COACHTECH にて学習終了後、Swiftを学習する予定です。
+またLinuCレベル１受験予定。
 営業、総務、営業事務、経理の経験を生かし
 PCやタブレットを触ったことがない人にも分かりやすい社内システムを目指します。
 
 ##趣味や性格
 
 趣味は
-①手帳書くこと
-②ペットのカエル観察
-③腕輪念珠作成
-④文章を書くこと
-全体的にじっくり作ることが好きです。
+- ①手帳書くこと
+- ②ペットのカエル観察
+- ③腕輪念珠作成
+- ④文章を書くこと
+-全体的にじっくり作ることが好きです。
 
 性格は
 かなり真面目で締め切りを守ります。
@@ -56,6 +57,8 @@ COACHTECH 教材のハンズオンで作成したリポジトリです。
 - [php-oop-practice](https://github.com/azusa-seko/php-oop-practice)- ユーザー管理プログラムを作成 (PHP)
 - [php-control-practice](https://github.com/azusa-seko/php-control-practice)- 成績判定プログラムの作成 (PHP)
 - [discount_calculator.php](https://github.com/azusa-seko/discount_calculator.php)-
+- [eloquent-app-practice](https://github.com/azusa-seko/eloquent-app-practice)-ブログシステムのモデル作成 (Laravel Eloquent)
+- 
 - 
 
 
