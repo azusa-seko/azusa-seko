@@ -58,7 +58,7 @@ COACHTECH 教材のハンズオンで作成したリポジトリです。
 - [php-control-practice](https://github.com/azusa-seko/php-control-practice)- 成績判定プログラムの作成 (PHP)
 - [discount_calculator.php](https://github.com/azusa-seko/discount_calculator.php)-
 - [eloquent-app-practice](https://github.com/azusa-seko/eloquent-app-practice)-ブログシステムのモデル作成 (Laravel Eloquent)
-- 
+- [relation-app-practice](https://github.com/azusa-seko/relation-app-practice)-リレーションを使ったブログシステム　(Laravel Eloquent)
 - 
 
 
