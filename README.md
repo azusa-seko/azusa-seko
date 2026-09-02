@@ -41,7 +41,7 @@ COACHTECH 教材のハンズオンで作成したリポジトリです。
 - [self-introduction-practice](https://github.com/azusa-seko/self-introduction-practice) — 自己紹介ページ（HTML5）
 - [github-collab-practice](https://github.com/azusa-seko/github-collab-practice)-
 - [php-basics-practice](https://github.com/azusa-seko/php-basics-practice)- 商品価格計算プログラムの作成　(PHP)
-- [database-app-practice](https://github.com/azusa-seko/database-app-practice)-
+- [database-app-practice](https://github.com/azusa-seko/database-app-practice)- 商品管理システムのデータベース構築（マイグレーション）
 - [security-app-practice](https://github.com/azusa-seko/security-app-practice)-
 - [testing-app-practice](https://github.com/azusa-seko/testing-app-practice)-
 - [debugging-app-practice](https://github.com/azusa-seko/debugging-app-practice)-
@@ -49,8 +49,8 @@ COACHTECH 教材のハンズオンで作成したリポジトリです。
 - [middleware-app-practice](https://github.com/azusa-seko/middleware-app-practice)-
 - [auth-app-practice](https://github.com/azusa-seko/auth-app-practice)-
 - [api-setup-practice](https://github.com/azusa-seko/api-setup-practice)-
-- [blade-app-practice](https://github.com/azusa-seko/blade-app-practice)-
-- [profile-app-practice](https://github.com/azusa-seko/profile-app-practice)-
+- [blade-app-practice](https://github.com/azusa-seko/blade-app-practice)- 提供されたBladeファイルを動かす　（Blade）
+- [profile-app-practice](https://github.com/azusa-seko/profile-app-practice)-自己紹介ページの作成　（Laravel）
 - [my-first-git](https://github.com/azusa-seko/my-first-git)-
 - [setup-app-practice](https://github.com/azusa-seko/setup-app-practice)-
 - [php-form-practice](https://github.com/azusa-seko/php-form-practice)- ユーザー登録フォームを作成 (PHP)
@@ -59,7 +59,7 @@ COACHTECH 教材のハンズオンで作成したリポジトリです。
 - [discount_calculator.php](https://github.com/azusa-seko/discount_calculator.php)-
 - [eloquent-app-practice](https://github.com/azusa-seko/eloquent-app-practice)-ブログシステムのモデル作成 (Laravel Eloquent)
 - [relation-app-practice](https://github.com/azusa-seko/relation-app-practice)-リレーションを使ったブログシステム　(Laravel Eloquent)
-- 
+- [validation-app-practice](https://github.com/azusa-seko/validation-app-practice)-ユーザー登録フォームのバリデーション
 
 
 
