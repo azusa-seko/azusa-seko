@@ -9,11 +9,11 @@ PCやタブレットを触ったことがない人にも分かりやすい社内
 ##趣味や性格
 
 趣味は
-- ①手帳書くこと
-- ②ペットのカエル観察
-- ③腕輪念珠作成
-- ④文章を書くこと
--全体的にじっくり作ることが好きです。
+- 手帳を書くこと
+- ペットのカエル観察
+- 腕輪念珠作成
+- 文章を書くこと
+全体的にじっくり作ることが好きです。
 
 性格は
 かなり真面目で締め切りを守ります。
@@ -42,13 +42,13 @@ COACHTECH 教材のハンズオンで作成したリポジトリです。
 - [github-collab-practice](https://github.com/azusa-seko/github-collab-practice)-
 - [php-basics-practice](https://github.com/azusa-seko/php-basics-practice)- 商品価格計算プログラムの作成　(PHP)
 - [database-app-practice](https://github.com/azusa-seko/database-app-practice)- 商品管理システムのデータベース構築（マイグレーション）
-- [security-app-practice](https://github.com/azusa-seko/security-app-practice)-
-- [testing-app-practice](https://github.com/azusa-seko/testing-app-practice)-
-- [debugging-app-practice](https://github.com/azusa-seko/debugging-app-practice)-
-- [authorization-app-practice](https://github.com/azusa-seko/authorization-app-practice)-
-- [middleware-app-practice](https://github.com/azusa-seko/middleware-app-practice)-
-- [auth-app-practice](https://github.com/azusa-seko/auth-app-practice)-
-- [api-setup-practice](https://github.com/azusa-seko/api-setup-practice)-
+- [security-app-practice](https://github.com/azusa-seko/security-app-practice)-CSRF保護付きお問い合わせフォームの作成（Laravel）
+- [testing-app-practice](https://github.com/azusa-seko/testing-app-practice)-ユーザー作成機能のテスト（Laravel）
+- [debugging-app-practice](https://github.com/azusa-seko/debugging-app-practice)-デバッグ（Laravel）
+- [authorization-app-practice](https://github.com/azusa-seko/authorization-app-practice)-投稿管理機能の作成(ポリシー)
+- [middleware-app-practice](https://github.com/azusa-seko/middleware-app-practice)-管理者専用ページの保護（カスタムミドルウェア）
+- [auth-app-practice](https://github.com/azusa-seko/auth-app-practice)- ログイン・ログアウト・ユーザー登録機能と、認証が必要なダッシュボードの作成（Laravel Fortify）
+- [api-setup-practice](https://github.com/azusa-seko/api-setup-practice)-API疎通確認（API）
 - [blade-app-practice](https://github.com/azusa-seko/blade-app-practice)- 提供されたBladeファイルを動かす　（Blade）
 - [profile-app-practice](https://github.com/azusa-seko/profile-app-practice)-自己紹介ページの作成　（Laravel）
 - [my-first-git](https://github.com/azusa-seko/my-first-git)-
